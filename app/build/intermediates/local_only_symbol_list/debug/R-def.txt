@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+array contacts
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable wallpaper
+id mAdd
+id mContactList
+id mContacts
+id mDiv
+id mMainText
+id mMult
+id mSimpleCalc
+id mSub
+id mText
+id mTvSecond
+id mTvfirst
+id mWeb
+id mWebb
+layout activity_calculator
+layout activity_contact
+layout activity_main
+layout activity_website
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string tv_title_txt
+style Theme.MyTest2
+xml backup_rules
+xml data_extraction_rules

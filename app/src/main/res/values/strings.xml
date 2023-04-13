@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My test2</string>
+    <string name="tv_title_txt"><u>Simple Calculator</u></string>
+    <string-array name="contacts">
+        <item>Sylvia</item>
+        <item>Melvin</item>
+        <item>Nyathira</item>
+        <item>Loise</item>
+        <item>John</item>
+        <item>Mikkel</item>
+        <item>Jayron</item>
+        <item>Jeremy</item>
+        <item>Carol</item>
+        <item>Sam</item>
+        <item>Kanyi</item>
+        <item>Ngunjiri</item>
+        <item>Wangui</item>
+        <item>Wanjiku</item>
+        <item>Elizabeth</item>
+        <item>Kahiga</item>
+        <item>Muthoni</item>
+        <item>Bhoke</item>
+        <item>Precious</item>
+        <item>Joy</item>
+    </string-array>
+</resources>
